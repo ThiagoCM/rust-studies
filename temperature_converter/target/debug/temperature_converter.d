@@ -1,0 +1,1 @@
+C:\Users\624590\OneDrive\ -\ BRF\ S.A\Disco\ P\Desktop\Pessoal\rust-studies\temperature_converter\target\debug\temperature_converter.exe: C:\Users\624590\OneDrive\ -\ BRF\ S.A\Disco\ P\Desktop\Pessoal\rust-studies\temperature_converter\src\main.rs
