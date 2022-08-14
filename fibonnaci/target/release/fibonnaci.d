@@ -1,0 +1,1 @@
+C:\Users\624590\OneDrive\ -\ BRF\ S.A\Disco\ P\Desktop\Pessoal\rust-studies\fibonnaci\target\release\fibonnaci.exe: C:\Users\624590\OneDrive\ -\ BRF\ S.A\Disco\ P\Desktop\Pessoal\rust-studies\fibonnaci\src\main.rs
